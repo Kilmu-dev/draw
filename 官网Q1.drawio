@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T02:43:03.440Z" agent="5.0 (X11)" etag="3J19WlXf4bZGqz11VaBq" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T03:45:41.522Z" agent="5.0 (X11)" etag="yhrZPvwhI0dDezTW43JP" version="20.8.20" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="2355" dy="2565.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3640" dy="3287.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,7 +510,7 @@
         <mxCell id="74" value="3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="70.00000000000131" y="-868.1481481481491" width="81.33333333333285" height="22.96296296296281" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="输出边云端产品需求文档和商场需上架产品的需求文档" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="75" value="输出边云端产品需求文档和商场需上架产品的需求文档给产品经理" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="151.33333333333417" y="-868.1481481481491" width="650.6666666666622" height="22.962962962962823" as="geometry" />
         </mxCell>
         <mxCell id="76" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -624,7 +624,7 @@
         <mxCell id="114" value="11" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="70.00000000000131" y="-684.4444444444448" width="81.33333333333285" height="22.96296296296281" as="geometry" />
         </mxCell>
-        <mxCell id="115" value="" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="115" value="支付宝 微信企业帐号提前注册" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="151.33333333333417" y="-684.4444444444448" width="650.6666666666622" height="22.96296296296281" as="geometry" />
         </mxCell>
         <mxCell id="116" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">

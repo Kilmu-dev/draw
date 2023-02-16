@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T04:04:53.165Z" agent="5.0 (X11)" etag="TkZanieApAxOZVSu5WHo" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T11:50:32.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uGiZm6Dzol58_FVWBrqA" version="20.8.20" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="1213" dy="1922.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="2029.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ju_j035F8ayo5EW6v-ND-254" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="0.00142857143244135" y="-243.1034482758556" width="38.57142857142849" height="869.6551724137928" as="geometry" />
+        </mxCell>
         <mxCell id="189" value="26" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="86.50000000000102" y="610.0000000000036" width="40" height="20" as="geometry" />
         </mxCell>
@@ -463,18 +466,18 @@
         <mxCell id="254" value="Q1" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=100" parent="1" vertex="1">
           <mxGeometry x="1.973278683310903e-12" y="-243.1034482758621" width="1812.8571428571404" height="33.44827586206867" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-281" value="产品需求模板" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;container=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-281" value="产品需求模板" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;container=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="0.5" y="210" width="77.14" height="40" as="geometry">
             <mxRectangle x="686.5" y="140" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-291" value="商城前期准备" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-291" value="商城前期准备" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
           <mxGeometry x="0.5" y="-50" width="191.43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-293" value="产品需求调研,输出需求报告" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-293" value="产品需求调研,输出需求报告" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
           <mxGeometry x="1.4299999999999997" y="260" width="191.43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-294" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-294" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
           <mxGeometry x="77.63999999999999" y="240" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="63" value="1" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
@@ -861,36 +864,36 @@
         <mxCell id="14" value="End" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1127.3333333333317" y="-959.9999999999999" width="162.6666666666658" height="45.925925925925625" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-298" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-298" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="1133.6633333333307" y="-845.1822222222228" width="162.6666666666663" height="22.96296296296281" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-299" value="2.14" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-299" value="2.14" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="1127.3333333333308" y="-868.1422222222228" width="162.6666666666663" height="22.96296296296281" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-300" value="商城后台各功能开发" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-300" value="商城后台各功能开发" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
           <mxGeometry x="77.14" y="10" width="1200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-301" value="边云端产品上线" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-301" value="边云端产品上线" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
           <mxGeometry x="350" y="260" width="660" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-302" value="需求对齐" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-302" value="需求对齐" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" parent="1" vertex="1">
           <mxGeometry x="269.99999999999994" y="210" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-305" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-305" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
           <mxGeometry x="347.1400000000001" y="240" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="W6v6ki8JqiKwyie0KzkP-306">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="W6v6ki8JqiKwyie0KzkP-306" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="153" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-306" value="PRD" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-306" value="PRD" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" parent="1" vertex="1">
           <mxGeometry x="112.86000000000001" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-309" value="研发开发计划" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-309" value="研发开发计划" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50;fontSize=12;html=0;" parent="1" vertex="1">
           <mxGeometry x="269.9999999999999" y="-50" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W6v6ki8JqiKwyie0KzkP-310" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" vertex="1" parent="1">
+        <mxCell id="W6v6ki8JqiKwyie0KzkP-310" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
           <mxGeometry x="350.0000000000001" y="-19.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
